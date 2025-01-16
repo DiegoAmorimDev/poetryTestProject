@@ -1,4 +1,6 @@
-## TREINAMENTO DE MODELO DE ML PARA PREVER O VALOR DE UMA PIZZA
+## TREINAMENTO DE MODELO DE ML PARA PREVER O VALOR DE UMA PIZZA, UTILIZANDO STREAMLIT E POETRY
+
+- Neste projeto testei o uso de ambientes virtuais e gerenciamento de dependências com poetry e pyenv
 
 - Primeiro importamos o arquivo data frame pizzas.csv
 
